@@ -23,7 +23,6 @@ jabatan = {
     '11199283' : {'posName' : 'Admin', 'level' : 'T1', 'Divisi' : 'Marketing', 'emplID' : None},}
 
 emplGrade = ['1A','1B','1C','2A','2B','2C','3A','3B','3C','4A','4B','4C']
-tingkatan = ['T1','T2','T3','T4']
 
 menuList = {
     'mainMenu' : {

@@ -10,5 +10,5 @@ Problem : IT & Data Science Departement needed to change and renew employee data
 Business Task : This tool will be help business owner to select employee based on their skill and knowledge and filter employee to promoted to help owner increase in developing their business 
 best employee will be joined in stake holder and the next leader for next expanding plan that will be develop by company 
           
-Limitation : Employee database needed to uploaded first before data employe enables to be short 
-Data Summary 
+Limitation : Employee database needed to uploaded data first before data employe enables to be short manually by the sistem 
+Data Summary : Data employess contain all employe background from education, family ID, bitrh date, and position siystem will ask usher to input the data manually and apss will be short employee by given job list 
